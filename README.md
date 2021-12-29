@@ -1,2 +1,2 @@
 # framingtonHeart
-## This is a repository for predicting heart disease.
+## This is a learning repository for imbalanced datasets.
